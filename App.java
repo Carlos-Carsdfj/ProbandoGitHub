@@ -1,12 +1,10 @@
 public class App {
     public static void main(String[] args) {
+        
+        NewPage pageNew = new NewPage();
+        
+        
 
-
-
-        logger.log("Hello Work");
-
-       // System.out.println("Hello, World!");
-      //  System.out.println("This is  a test with my program");
     
     
     
